@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 57624da4f4dda2f458ed57059b50ac69
+timeCreated: 1542401505
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: NK_Monotype Corsiva
+  fontNames:
+  - NK_Monotype Corsiva
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
